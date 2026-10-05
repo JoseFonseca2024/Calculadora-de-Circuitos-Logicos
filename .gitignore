@@ -1,0 +1,15 @@
+# Entorno virtual
+.venv/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Archivos temporales
+*.log
+*.tmp
